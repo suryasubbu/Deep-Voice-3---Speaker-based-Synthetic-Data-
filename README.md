@@ -2,5 +2,5 @@
 
 
 Project is based on https://github.com/Kyubyong/deepvoice3 
-it is updated to new tensorflow version
+it is updated to new tensorflow version 
 
